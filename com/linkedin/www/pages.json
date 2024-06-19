@@ -1,0 +1,42 @@
+[
+    {
+        "path": "messages/",
+        "instruction": "read messages and respond"
+    },
+    {
+        "path": "people/",
+        "instruction": "search people and retrieve details"
+    },
+    {
+        "path": "jobs/",
+        "instruction": "search for jobs and apply"
+    },
+    {
+        "path": "companies/",
+        "instruction": "search for companies and retrieve details"
+    },
+    {
+        "path": "notifications/",
+        "instruction": "view notifications and mark as read"
+    },
+    {
+        "path": "posts/",
+        "instruction": "create a post and interact with comments"
+    },
+    {
+        "path": "network/",
+        "instruction": "manage connections and send invites"
+    },
+    {
+        "path": "settings/",
+        "instruction": "update profile and account settings"
+    },
+    {
+        "path": "learning/",
+        "instruction": "search for courses and enroll"
+    },
+    {
+        "path": "groups/",
+        "instruction": "search for groups and join"
+    }
+]

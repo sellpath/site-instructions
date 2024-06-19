@@ -1,0 +1,42 @@
+[
+    {
+        "path": "home/",
+        "instruction": "view dashboard and summarize key metrics"
+    },
+    {
+        "path": "contacts/",
+        "instruction": "search contacts and retrieve details"
+    },
+    {
+        "path": "accounts/",
+        "instruction": "search accounts and retrieve details"
+    },
+    {
+        "path": "opportunities/",
+        "instruction": "list opportunities and update status"
+    },
+    {
+        "path": "cases/",
+        "instruction": "list support cases and update status"
+    },
+    {
+        "path": "leads/",
+        "instruction": "search leads and update information"
+    },
+    {
+        "path": "reports/",
+        "instruction": "generate and export reports"
+    },
+    {
+        "path": "campaigns/",
+        "instruction": "view campaign details and update progress"
+    },
+    {
+        "path": "chatter/",
+        "instruction": "post messages and respond to comments"
+    },
+    {
+        "path": "settings/",
+        "instruction": "update user settings and preferences"
+    }
+]
