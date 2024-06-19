@@ -1,0 +1,61 @@
+[
+    {
+        "description": "Sign in and browse featured products",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "home/", "instruction": "browse and summarize featured products and deals"}
+        ]
+    },
+    {
+        "description": "Search for a product and add to cart",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "product/", "instruction": "search for products and retrieve details"},
+            {"path": "product/", "instruction": "add product to cart"}
+        ]
+    },
+    {
+        "description": "Proceed to checkout and place an order",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "cart/", "instruction": "view items in the cart and proceed to checkout"},
+            {"path": "checkout/", "instruction": "enter shipping information and place the order"}
+        ]
+    },
+    {
+        "description": "View order history and track an order",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "orders/", "instruction": "view order history and track orders"}
+        ]
+    },
+    {
+        "description": "Write a review for a purchased product",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "orders/", "instruction": "view order history and select a product"},
+            {"path": "reviews/", "instruction": "write a review for the selected product"}
+        ]
+    },
+    {
+        "description": "Update account information",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "account/", "instruction": "update account information and manage addresses"}
+        ]
+    },
+    {
+        "description": "Browse and manage wishlist items",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "wishlist/", "instruction": "view and manage wishlist items"}
+        ]
+    },
+    {
+        "description": "Access customer service and submit an inquiry",
+        "steps": [
+            {"path": "signin/", "instruction": "sign in with user credentials"},
+            {"path": "customer-service/", "instruction": "access customer service and submit inquiries"}
+        ]
+    }
+]

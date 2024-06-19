@@ -1,0 +1,42 @@
+[
+    {
+        "path": "home/",
+        "instruction": "browse and summarize featured products and deals"
+    },
+    {
+        "path": "product/",
+        "instruction": "search for products and retrieve details"
+    },
+    {
+        "path": "cart/",
+        "instruction": "view items in the cart and proceed to checkout"
+    },
+    {
+        "path": "orders/",
+        "instruction": "view order history and track orders"
+    },
+    {
+        "path": "account/",
+        "instruction": "update account information and manage addresses"
+    },
+    {
+        "path": "wishlist/",
+        "instruction": "view and manage wishlist items"
+    },
+    {
+        "path": "customer-service/",
+        "instruction": "access customer service and submit inquiries"
+    },
+    {
+        "path": "deals/",
+        "instruction": "browse and summarize current deals and discounts"
+    },
+    {
+        "path": "reviews/",
+        "instruction": "read product reviews and write new reviews"
+    },
+    {
+        "path": "recommendations/",
+        "instruction": "view and manage personalized recommendations"
+    }
+]
